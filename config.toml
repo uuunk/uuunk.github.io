@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Paul Lorsbach"
+theme = "m10c"
+[params]
+    author = "Paul Lorsbach"
+    description = "Welcome. This is what I want to convey to the void. Spaghetti thrown against infinity."
+    avatar = "/weirdProfile.jpg"
+    [params.style]
+        darkestColor = "#2D3742"
+        darkColor = "#111219"
+        primaryColor = "#59C9A5"
+        lightColor = "#BFC0C0"
+        lightestColor = "#F1F7EE"
