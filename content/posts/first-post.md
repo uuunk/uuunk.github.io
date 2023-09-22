@@ -5,7 +5,7 @@ draft: false
 ---
 # prompt: what I would say to my younger self
 
-You haven't broken free yet. You haven't _really_ tried, but it doesn't work like you think it does either. Kicking down barriers, busting through the wall, and running into a the sun will feel great. But once the liberation glow wears off you're just in an an empty field, having to build from scratch, alone.
+You haven't broken free yet. You haven't _really_ tried, but it doesn't work like you think it does either. Kicking down barriers, busting through the wall, and running into a the sun will feel great. But once the liberation glow wears off you're just alone in an an empty field, having to build from scratch.
 
 That's not to say you won't have adventures with storybook endings. You will taste a kind of freedom, a freedom from having to "be" anything. You'll travel and learn and you'll never stop being curious. But you can't live off this kind of freedom forever, all intake and no output. It's hedonistic, selfish and ultimately unfulfilling.
 
