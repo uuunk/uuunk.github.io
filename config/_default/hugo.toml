@@ -1,7 +1,7 @@
 baseURL = "https://uuunk.github.io/"
 languageCode = "en-us"
 title = "Paul Lorsbach"
-# theme = "m10c"
+theme = "m10c"
 [params]
     author = "Paul Lorsbach"
     description = "Welcome. This is what I want to convey to the void. Spaghetti thrown against infinity."
