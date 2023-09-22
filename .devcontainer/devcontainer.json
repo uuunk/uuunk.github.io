@@ -12,7 +12,7 @@
 			// Rebuild the container if it already exists to update.
 			"VERSION": "0.118.2",
 			// Update NODE_VERSION to pick the Node.js version: 12, 14
-			"NODE_VERSION": "14"
+			"NODE_VERSION": "16"
 		}
 	},
 
