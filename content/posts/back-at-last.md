@@ -1,7 +1,7 @@
 ---
 title: "Back at last"
 date: 2023-09-21T22:12:05-05:00
-draft: true
+draft: false
 ---
 Wow, the irony of my [last and only post]({{< ref "first-post" >}} "first post") is
 ![i don't even know what](/whiteguyblinking.gif)
